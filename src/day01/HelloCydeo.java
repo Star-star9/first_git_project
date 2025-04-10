@@ -5,6 +5,7 @@ public class HelloCydeo {
         System.out.println("Hello cydeo");
         System.out.println("Hello world");
         System.out.println("Hello Shemsiye");
+        System.out.println("Hello");
     }
 }
 //green color mean file added to the staging area but not yet to local repository
